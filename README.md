@@ -62,7 +62,7 @@ The repository utilizes the following core software, algorithms, and visualizati
 * **Oversampling Engines:** `imbalanced-learn` (`SMOTE`, `BorderlineSMOTE`)
 * **Machine Learning Estimators:** `xgboost` (`XGBClassifier`), `scikit-learn` (`RandomForestClassifier`)
 * **Visualization & Diagnostics:** `matplotlib`, `seaborn`
-
+---
 🚀 Installation & Usage Guide
 1. Clone the Architecture Repository
 ```bash
