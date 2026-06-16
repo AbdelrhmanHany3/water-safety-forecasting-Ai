@@ -51,7 +51,7 @@ Our final tuned model output maps an exceptionally secure distribution boundary,
 * **Minimized Asset Waste (False Negatives, FN = 17):** Successfully slashes clean-water distribution resource waste down by over 63% compared to standard random forest baselines.
 * **True Positives (TP = 89):** Maximizes clean, drinkable water capture rates under real-world skewed conditions.
 
----
+```
 
 ## 🛠️ Technology Stack & Dependencies
 
@@ -64,9 +64,9 @@ The repository utilizes the following core software, algorithms, and visualizati
 * **Visualization & Diagnostics:** `matplotlib`, `seaborn`
 ---
 🚀 Installation & Usage Guide
-1. Clone the Architecture Repository
+### 1. Clone the Architecture Repository
 ```bash
-git clone [https://github.com/your-username/water-safety-forecasting.git](https://github.com/your-username/water-safety-forecasting.git)
+git clone [https://github.com/AbdelrhmanHany3/water-safety-forecasting-Ai](https://github.com/AbdelrhmanHany3/water-safety-forecasting-Ai)
 cd water-safety-forecasting
 ```
 2. Configure Virtual Environment & Tooling
