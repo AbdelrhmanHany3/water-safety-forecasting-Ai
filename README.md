@@ -80,7 +80,7 @@ pip install -r requirements.txt
 To execute the complete exploratory data analysis, pipeline scaling, SMOTE adjustments, and model tuning cycles, run the main notebook block or script sequence:
 
 ```bash
-jupyter notebook water_quality_pipeline.ipynb
+jupyter notebook main.ipynb
 ```
 
 💡 Key Machine Learning Insights & Production Highlights
